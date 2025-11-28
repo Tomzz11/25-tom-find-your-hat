@@ -6,7 +6,7 @@
 		"JavaScript"
 	],
 	"license": "ISC",
-	"author": "<Your Name>",
+	"author": "25_Nuttanon(Tom)",
 	"type": "module",
 	"main": "main.js",
 	"scripts": {
